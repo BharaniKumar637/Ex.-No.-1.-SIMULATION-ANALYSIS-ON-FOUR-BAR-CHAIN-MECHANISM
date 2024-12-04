@@ -56,7 +56,7 @@
 
 
 
-### Name:Purusothaman
+### Name:Purusothaman K
 ### Register Number: 24901211
 
 ## RESULT:
