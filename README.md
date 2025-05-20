@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 20/05/2025
 
 ## AIM:
 
@@ -56,8 +56,8 @@
 
 
 
-### Name:Purusothaman K
-### Register Number: 24901211
+### Name:BHARANI KUMAR J
+### Register Number: 212224240024
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
